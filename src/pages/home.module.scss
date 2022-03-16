@@ -32,6 +32,8 @@
         font-size: 1.5rem;
         line-height: 2.5rem;
         margin-top: 1.5rem;
+        margin-bottom: 2.5rem;
+
 
         span{
             color: var(--cyan-500);
@@ -45,6 +47,15 @@
 @media (max-width:1070px){
     .contentContent{
         flex-direction: column;
+        gap: 3rem;
+        margin-top: 5rem;
+
+        img{
+            max-width: 90%;
+            margin:0 auto;
+        }
     }
+
+
 
 }
