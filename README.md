@@ -29,7 +29,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 1. Faça o clone do repositório :
 
 ```sh
-  $ git clone https://github.com/sawyo-fernands/ignews.git
+  $ git clone https://github.com/Sawyo-Fernands/ignews.git
 ```
 
 2. Executando a Aplicação:
@@ -47,5 +47,5 @@ O projeto foi desenvolvido durante o treinamento da Rockeseat chamado **Ignite**
 
 
 <h4 align="center">
-    👨🏻‍🚀 Feito por <a href="" target="_blank">Sawyo Fernands</a>
+    👨🏻‍🚀 Feito por <a href="https://www.linkedin.com/in/sawyo-fernands-685069203/" target="_blank">Sawyo Fernands</a>
 </h4>
