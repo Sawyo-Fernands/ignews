@@ -1,34 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="public/images/logo.svg" width="35%" alt="dt money">
+</p>
 
-## Getting Started
+## 💻Projeto
+**Ignews** é um blog focado em assuntos de tecnologia que entrega matérias completas para seus assinantes.
+<br />
+<br />
+<p align="center">
+  <img src=".github/notebook.png" width="95%">
+</p>
+<br />
 
-First, run the development server:
+## ⚙️Como o projeto funciona?
+Através do site o usuário pode fazer login com sua conta do Github e assinar a mensalidade do blog para ter acesso completo aos posts publicados no Ignews.
 
-```bash
-npm run dev
-# or
-yarn dev
+## 👨🏻‍💻Tecnologias usadas
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+  * [Nextjs](https://nextjs.org/)
+  * [React JS](https://pt-br.reactjs.org)
+  * [Typescript](https://www.typescriptlang.org/)
+  * [Faunadb](https://fauna.com/)
+  * [Stripe](https://stripe.com/br)
+  * [Primisc](https://prismic.io/)
+
+## ▶️Como rodar
+  ### **Pré-requisitos**
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado de forma global na sua máquina.
+  
+ ### **Passo a passo para rodar a aplicação**  
+1. Faça o clone do repositório :
+
+```sh
+  $ git clone https://github.com/sawyo-fernands/ignews.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Executando a Aplicação:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```sh
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+  $ cd ignews
+  $ yarn install
+  $ yarn dev
+```
+  
+## 🚀Quem proporcionou a execução desse projeto?
+O projeto foi desenvolvido durante o treinamento da Rockeseat chamado **Ignite** na trilha de ReactJS,realizado pela **[Rocketseat](https://rocketseat.com.br)** com as aulas ministradas pelo **[Diego Fernandes](https://github.com/diego3g)**!
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h4 align="center">
+    👨🏻‍🚀 Feito por <a href="" target="_blank">Sawyo Fernands</a>
+</h4>
