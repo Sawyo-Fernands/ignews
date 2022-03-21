@@ -6,9 +6,7 @@
 **Ignews** é um blog focado em assuntos de tecnologia que entrega matérias completas para seus assinantes.
 <br />
 <br />
-<p align="center">
-  <img src=".github/notebook.png" width="95%">
-</p>
+
 <br />
 
 ## ⚙️Como o projeto funciona?
