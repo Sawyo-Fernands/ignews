@@ -9,7 +9,7 @@
 
 <br />
 
-## ⚙️Como o projeto funciona?
+## ⚙️Como o projeto funciona? 
 Através do site o usuário pode fazer login com sua conta do Github e assinar a mensalidade do blog para ter acesso completo aos posts publicados no Ignews.
 
 ## 👨🏻‍💻Tecnologias usadas
