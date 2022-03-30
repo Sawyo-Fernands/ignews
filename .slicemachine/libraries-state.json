@@ -1,0 +1,76 @@
+{
+  "slices": {
+    "components": {
+      "posts": {
+        "library": "slices",
+        "id": "posts",
+        "name": "Posts",
+        "description": "Posts",
+        "model": {
+          "id": "posts",
+          "type": "SharedSlice",
+          "name": "Posts",
+          "description": "Posts",
+          "variations": [
+            {
+              "id": "default",
+              "name": "Default",
+              "docURL": "...",
+              "version": "sktwi1xtmkfgx8626",
+              "description": "Posts",
+              "primary": {
+                "title": {
+                  "type": "StructuredText",
+                  "config": {
+                    "label": "Title",
+                    "placeholder": "",
+                    "allowTargetBlank": true,
+                    "single": "heading1"
+                  }
+                },
+                "description": {
+                  "type": "StructuredText",
+                  "config": {
+                    "single": "paragraph",
+                    "label": "Description",
+                    "placeholder": "A nice description of your feature"
+                  }
+                }
+              },
+              "items": {}
+            }
+          ]
+        },
+        "mocks": {
+          "default": {
+            "variation": "default",
+            "name": "Default",
+            "slice_type": "posts",
+            "items": [],
+            "primary": {
+              "title": [
+                {
+                  "type": "heading1",
+                  "text": "Transition synergistic models",
+                  "spans": []
+                }
+              ],
+              "description": [
+                {
+                  "type": "paragraph",
+                  "text": "Nisi non dolor eu reprehenderit id occaecat occaecat deserunt laborum ut in tempor officia velit. Aliquip proident eiusmod esse officia est pariatur elit adipisicing nostrud amet anim.",
+                  "spans": []
+                }
+              ]
+            }
+          }
+        },
+        "meta": {
+          "fileName": "index",
+          "extension": "js"
+        },
+        "screenshotPaths": {}
+      }
+    }
+  }
+}
